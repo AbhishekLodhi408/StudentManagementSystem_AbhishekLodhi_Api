@@ -5,6 +5,8 @@ using StudentManagementSystem.Domain.Domain;
 using StudentManagementSystem.Domain.Interface;
 using System;
 using System.Text;
+using StudentManagementSystem.Infrastructure.AppDBContextName;
+using StudentManagementSystem.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 

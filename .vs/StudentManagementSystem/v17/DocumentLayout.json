@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.infrastructure\\code\\appdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|solutionrelative:studentmanagementsystem.infrastructure\\code\\appdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.api\\controllers\\smsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\smsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.domain\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:studentmanagementsystem.domain\\entities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.infrastructure\\dbconnection\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|solutionrelative:studentmanagementsystem.infrastructure\\dbconnection\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.domain\\domain\\smsystemdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:studentmanagementsystem.domain\\domain\\smsystemdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.infrastructure\\repository\\smsystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|solutionrelative:studentmanagementsystem.infrastructure\\repository\\smsystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.domain\\entities\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:studentmanagementsystem.domain\\entities\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.domain\\entities\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF2C734-FE18-4EF4-90B6-4C925E34A4EE}|StudentManagementSystem.Domain\\StudentManagementSystem.Domain.csproj|solutionrelative:studentmanagementsystem.domain\\entities\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.api\\controllers\\smsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\smsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Projects\\StudentManagementSystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -30,23 +50,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SMSystemController.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:26:16.523Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SMSystemDomain.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Domain\\SMSystemDomain.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Domain\\Domain\\SMSystemDomain.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Domain\\SMSystemDomain.cs",
+              "RelativeToolTip": "StudentManagementSystem.Domain\\Domain\\SMSystemDomain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:23:50.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SMSystemRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\Repository\\SMSystemRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastructure\\Repository\\SMSystemRepository.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\Repository\\SMSystemRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastructure\\Repository\\SMSystemRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:24:57.271Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDBConnection.cs",
-              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
-              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
-              "RelativeToolTip": "StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Entities\\Students.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Domain\\Entities\\Students.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Entities\\Students.cs",
+              "RelativeToolTip": "StudentManagementSystem.Domain\\Entities\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T15:53:38.67Z",
+              "WhenOpened": "2026-03-17T16:57:55.814Z",
               "EditorCaption": ""
             },
             {
@@ -57,40 +119,66 @@
               "RelativeDocumentMoniker": "StudentManagementSystem.API\\Program.cs",
               "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Program.cs",
               "RelativeToolTip": "StudentManagementSystem.API\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwCAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T15:43:18.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\DBConnection\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastructure\\DBConnection\\AppDBContext.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\DBConnection\\AppDBContext.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastructure\\DBConnection\\AppDBContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:41:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Entities\\StudentClass.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Domain\\Entities\\StudentClass.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Entities\\StudentClass.cs",
+              "RelativeToolTip": "StudentManagementSystem.Domain\\Entities\\StudentClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:01:44.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Entities\\Classes.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Domain\\Entities\\Classes.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Domain\\Entities\\Classes.cs",
+              "RelativeToolTip": "StudentManagementSystem.Domain\\Entities\\Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:58:04.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\appsettings.json",
               "RelativeDocumentMoniker": "StudentManagementSystem.API\\appsettings.json",
               "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\appsettings.json",
               "RelativeToolTip": "StudentManagementSystem.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-17T15:38:48.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SMSystemController.cs",
-              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
-              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
-              "RelativeToolTip": "StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswCkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T15:26:16.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
