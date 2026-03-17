@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using StudentManagementSystem.Domain.Domain;
+using StudentManagementSystem.Domain.Interface;
 using System;
 using System.Text;
 
@@ -22,11 +24,11 @@ builder.Services.AddCors(options =>
     });
 });
 
-//Add domain
-//builder.Services.AddScoped<>();
+//Add domain - Dependency Injection
+builder.Services.AddScoped<SMSystemDomain>();
 
-//Add repository
-//builder.Services.AddScoped<ITestRepository, TestRepository>();
+//Add repository - Dependency Injection
+builder.Services.AddScoped<ISMSystemRepository, SMSystemRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

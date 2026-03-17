@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using StudentManagementSystem.API.DTOs;
+using StudentManagementSystem.Domain.Domain;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -16,10 +17,12 @@ namespace StudentManagementSystem.API.Controllers
     {
 
         private readonly IConfiguration _configuration;
+        private readonly SMSystemDomain _sMSystemDomain;
 
-        public SMSystemController(IConfiguration _cong)
+        public SMSystemController(IConfiguration _cong, SMSystemDomain sMSystemDomain)
         {
             _configuration = _cong;
+            _sMSystemDomain = sMSystemDomain;
         }
 
         [AllowAnonymous]
@@ -46,6 +49,14 @@ namespace StudentManagementSystem.API.Controllers
             {
                 return Unauthorized("Incorrect Details.");
             }
+        }
+
+        [Route("getsudents")]
+        [HttpGet]
+        public async Task<IActionResult> GetAllStudents()
+        {
+            var result =  await _sMSystemDomain.GetAllStudents();
+            return Ok(result);  
         }
 
 

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using StudentManagementSystem.Domain;
+using StudentManagementSystem.Domain.Entities;
 
-namespace StudentManagementSystem.Infrastructure.AppDBContext
+namespace StudentManagementSystem.Infrastructure.AppDBContextName
 {
-    internal class AppDBContext
+    public class AppDBContext : DbContext
     {
         public AppDBContext(DbContextOptions<AppDBContext> options) : base(options)
         {
