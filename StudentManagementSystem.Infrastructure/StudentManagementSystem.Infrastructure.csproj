@@ -7,9 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Code\" />
     <Folder Include="DBConnection\" />
     <Folder Include="Repository\" />
+	<PackageReference Include="Dapper" Version="2.1.72" />
+	<PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+	<PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.5" />
   </ItemGroup>
 
 </Project>

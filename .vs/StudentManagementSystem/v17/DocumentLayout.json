@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\StudentManagementSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.infrastructure\\code\\appdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3C935B-1831-42E4-BFBD-4C8057BA6F92}|StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|solutionrelative:studentmanagementsystem.infrastructure\\code\\appdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\projects\\studentmanagementsystem\\studentmanagementsystem.api\\controllers\\smsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CC4BE-7CAD-41FB-B53F-401CF3185906}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\smsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Projects\\StudentManagementSystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBConnection.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
+              "RelativeToolTip": "StudentManagementSystem.Infrastructure\\Code\\AppDBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:53:38.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:43:18.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\appsettings.json",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\appsettings.json",
+              "RelativeToolTip": "StudentManagementSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T15:38:48.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMSystemController.cs",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Controllers\\SMSystemController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:26:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projects\\StudentManagementSystem\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Projects\\StudentManagementSystem\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-17T15:15:50.085Z",
+              "EditorCaption": ""
             }
           ]
         }
